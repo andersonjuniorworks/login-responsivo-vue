@@ -1,3 +1,3 @@
-# login-responsivo
+# Login Responsivo com VueJS
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vue-z57ams)
+[Clique para visualizar uma demonstração](https://login-responsivo.stackblitz.io/)
