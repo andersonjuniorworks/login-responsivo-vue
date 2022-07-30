@@ -124,7 +124,7 @@ export default {
   height: 40px;
   padding: 0 15px;
   border-radius: 5px;
-  border: 1px solid rgba(233, 233, 233, 0.7);
+  border: 1px solid rgba(233, 233, 233, 1);
   outline: none;
   transition: ease-in 0.2s;
 }
